@@ -1,6 +1,6 @@
 Lista de objetivos Master Full Stack Developer
 
-Desarrollar y Desplegar una Aplicación Completa:
+1.- Desarrollar y Desplegar una Aplicación Completa:
 
 Meta: Crear una aplicación web completa que abarque tanto el frontend como el backend.
 Pasos:
@@ -9,3 +9,11 @@ Pasos:
     Utilizar tecnologías modernas en el frontend (por ejemplo, React, Angular, Vue) y en el backend (Node.js, Django, Ruby on Rails).
     
     Desplegar la aplicación en un entorno de producción utilizando servicios profesionales.
+
+2.- Optimizar el Rendimiento de la Aplicación:
+
+Meta: Mejorar la eficiencia y velocidad de tu aplicación.
+Pasos:
+    Realizar pruebas de rendimiento para identificar cuellos de botella y áreas de mejora.
+    Implementar técnicas de optimización en el frontend, como la carga diferida de recursos y la compresión de archivos estáticos.
+    Optimizar consultas de bases de datos y utilizar índices para mejorar la eficiencia del backend.
