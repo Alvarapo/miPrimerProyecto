@@ -1,0 +1,22 @@
+Actualmente trabajo como analista desarrollador BackEnd. Mis conocimientos son: 
+
+Java y Spring Framework: Profundo conocimiento de Java para el desarrollo de aplicaciones empresariales.
+Experiencia con Spring Boot para la creación rápida de aplicaciones Java basadas en microservicios.
+
+Arquitectura de Microservicios: Diseño y desarrollo de arquitecturas de microservicios.
+Implementación de patrones y prácticas recomendadas en microservicios.
+
+Persistencia de Datos: Trabajo con bases de datos relacionales.
+Uso de tecnologías de mapeo objeto-relacional (ORM), como Hibernate.
+
+API RESTful: Diseño y construcción de APIs RESTful utilizando Spring MVC.
+Manejo de solicitudes HTTP, respuestas y autenticación.
+
+Seguridad: Implementación de medidas de seguridad, como autenticación y autorización.
+Conocimiento de prácticas de seguridad en el desarrollo de aplicaciones.
+
+Manejo de Dependencias y Construcción:Uso de herramientas como Maven o Gradle para la gestión de dependencias y construcción del proyecto.
+
+Testing: Implementación de pruebas unitarias y de integración utilizando JUnit y otras herramientas de prueba.
+
+En cuanto a desarrollo de Front no tengo más que el mes de formación previa en Unir.
