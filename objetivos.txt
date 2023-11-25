@@ -17,3 +17,10 @@ Pasos:
     Realizar pruebas de rendimiento para identificar cuellos de botella y áreas de mejora.
     Implementar técnicas de optimización en el frontend, como la carga diferida de recursos y la compresión de archivos estáticos.
     Optimizar consultas de bases de datos y utilizar índices para mejorar la eficiencia del backend.
+
+3.- Incorporar Prácticas de Desarrollo Ágil y Colaboración:
+
+Meta: Mejorar tus habilidades de trabajo en equipo y adoptar prácticas ágiles.
+Pasos:
+    Utilizar herramientas de gestión de proyectos como Jira o Trello para organizar tareas y realizar seguimientos.
+    Implementar integración continua (CI) y despliegue continuo (CD) para facilitar la colaboración y entrega rápida.
